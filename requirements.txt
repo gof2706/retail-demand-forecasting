@@ -1,0 +1,9 @@
+pandas
+numpy
+lightgbm
+scikit-learn
+matplotlib
+kaggle
+huggingface_hub
+pyarrow
+joblib
