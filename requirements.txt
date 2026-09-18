@@ -7,3 +7,5 @@ kaggle
 huggingface_hub
 pyarrow
 joblib
+catboost
+xgboost
